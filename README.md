@@ -1,7 +1,5 @@
 <h1 align="center">Hi , I'm Berry</h1>
-<h3 align="center">An energetic frontend developer with a strong desire to learn</h3>
-
-- 🌱 I’m currently learning **Frontend development**
+<h3 align="center">An energetic fullstack developer with a strong desire to learn</h3>
 
 - 👨‍💻 All of my projects are available at [-](-)
 
