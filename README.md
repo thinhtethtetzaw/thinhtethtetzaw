@@ -1,8 +1,6 @@
-<div style="display: flex; flex-direction: column;">
-<img align="left" width="150" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" width="150" src="https://i.imgflip.com/65efzo.gif" alt="Berry's avatar" />
 
-<h1 align="left">Hi 👋! My name is Berry and I'm a Fullstack Developer.</h1>
-</div>
+<h1>Hi 👋! My name is Berry and I'm a Fullstack Developer.</h1>
 
 
 ### 💫 About Me:
