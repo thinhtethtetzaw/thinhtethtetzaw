@@ -1,6 +1,8 @@
-<img align="left" width="150" src="https://i.imgflip.com/65efzo.gif" alt="Berry's avatar" />
+<img src="https://i.imgflip.com/65efzo.gif" align="left" width="120" alt="Berry avatar" />
 
-<h1>Hi 👋! My name is Berry and I'm a Fullstack Developer.</h1>
+## Hi 👋! My name is Berry and I'm a Fullstack Developer.
+
+<br clear="left" />
 
 
 ### 💫 About Me:
