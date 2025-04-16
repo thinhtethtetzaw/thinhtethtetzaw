@@ -1,5 +1,3 @@
-<img src="https://i.imgflip.com/65efzo.gif" align="left" width="120" alt="Berry avatar" style="display: block;" />
-
 ## Hi 👋! My name is Berry and I'm a Fullstack Developer.
 
 
