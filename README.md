@@ -1,13 +1,13 @@
-<h2 align="left">Hi 👋! My name is Berry and I'm a Fullstack Developer.</h2>
+<h1 align="left">Hi 👋! My name is Berry and I'm a Fullstack Developer.</h1>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
 
-# 💫 About Me:
+### 💫 About Me:
 🔭 I’m currently working on an AI-powered workspace platform and a digital time capsule project built with React, TypeScript, and MongoDB.<br>👯 I’m looking to collaborate on Open-source projects that involve modern frontend frameworks, design systems, or anything JavaScript/TypeScript-based.<br>🤝 I’m looking for help with Advanced backend architecture using Node.js/NestJS and real-time app performance optimization.<br>🌱 I’m currently learning backend development and clean architecture patterns for scalable fullstack projects.<br>💬 Ask me about React, Next, Vue, Tailwind CSS, TypeScript, UI/UX, and building scalable frontend applications.<br>⚡ Fun fact: Dark mode is my default personality.
 
 
