@@ -1,10 +1,8 @@
+<div style="display: flex; flex-direction: column;">
+<img align="left" width="150" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <h1 align="left">Hi 👋! My name is Berry and I'm a Fullstack Developer.</h1>
-
-###
-
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+</div>
 
 
 ### 💫 About Me:
