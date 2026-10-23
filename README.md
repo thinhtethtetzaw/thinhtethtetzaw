@@ -1,4 +1,4 @@
-<img src="https://i.imgflip.com/65efzo.gif" align="left" width="120" alt="Berry avatar" style="display: block;" />
+<!-- <img src="https://i.imgflip.com/65efzo.gif" align="left" width="120" alt="Berry avatar" style="display: block;" /> -->
 
 </br></br></br></br></br>
 <h1> Hi 👋! My name is Berry and I'm a Fullstack Developer.</h1>
